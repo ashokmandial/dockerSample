@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBozXa+uKHh1fWgOUkLDn8FGIiWZiPqKGoNT1vQZTEoCqo2mok6SoEuh7rVyYF2+2yvYKcxT/V4726SG9alOdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashok Mandial\\source\\repos\\dockerSample\\DockerSample\\DockerSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashok Mandial\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ashok Mandial\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ashok Mandial\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ashok Mandial\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ashok Mandial\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ashok Mandial\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
